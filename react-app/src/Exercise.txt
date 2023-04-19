@@ -1,0 +1,3 @@
+Create a bootstrap button component
+class="btn btn-primary"
+type="button"
